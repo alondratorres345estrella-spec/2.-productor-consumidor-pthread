@@ -1,0 +1,29 @@
+=== Iniciando simulacion Productor-Consumidor (2 Productores, 2 Consumidores) ===
+
+[Productor 2] Produjo: 201 | Elementos en bufer: 1
+[Consumidor 1] Consumio: 201 | Elementos en bufer: 0
+[Consumidor 2] Bufer vacio. Esperando...
+[Productor 1] Produjo: 101 | Elementos en bufer: 1
+[Consumidor 2] Consumio: 101 | Elementos en bufer: 0
+[Productor 2] Produjo: 202 | Elementos en bufer: 1
+[Productor 1] Produjo: 102 | Elementos en bufer: 2
+[Consumidor 1] Consumio: 202 | Elementos en bufer: 1
+[Consumidor 2] Consumio: 102 | Elementos en bufer: 0
+[Productor 1] Produjo: 103 | Elementos en bufer: 1
+[Productor 2] Produjo: 203 | Elementos en bufer: 2
+[Consumidor 1] Consumio: 103 | Elementos en bufer: 1
+[Productor 2] Produjo: 204 | Elementos en bufer: 2
+[Consumidor 2] Consumio: 203 | Elementos en bufer: 1
+[Productor 1] Produjo: 104 | Elementos en bufer: 2
+[Productor 2] Produjo: 205 | Elementos en bufer: 3
+[Productor 1] Produjo: 105 | Elementos en bufer: 4
+[Consumidor 2] Consumio: 204 | Elementos en bufer: 3
+[Consumidor 1] Consumio: 104 | Elementos en bufer: 2
+[Productor 2] Produjo: 206 | Elementos en bufer: 3
+[Productor 1] Produjo: 106 | Elementos en bufer: 4
+[Consumidor 2] Consumio: 205 | Elementos en bufer: 3
+[Consumidor 1] Consumio: 105 | Elementos en bufer: 2
+[Consumidor 2] Consumio: 206 | Elementos en bufer: 1
+[Consumidor 1] Consumio: 106 | Elementos en bufer: 0
+
+=== Ejecucion finalizada con exito ===
